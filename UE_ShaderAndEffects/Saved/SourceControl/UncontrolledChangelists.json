@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/LBD_Unreal/UE_ShaderAndEffects/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/LBD_Unreal/UE_ShaderAndEffects/Content/M_BasicPlastic.uasset",
+				"D:/LBD_Unreal/UE_ShaderAndEffects/Content/Chap01.umap",
+				"D:/LBD_Unreal/UE_ShaderAndEffects/Content/M_PBR_Metal.uasset",
+				"D:/LBD_Unreal/UE_ShaderAndEffects/Content/M_PBR_Wood.uasset",
+				"D:/LBD_Unreal/UE_ShaderAndEffects/Content/NewMaterial.uasset",
+				"D:/LBD_Unreal/UE_ShaderAndEffects/Content/My_SampleGlass.uasset",
+				"D:/LBD_Unreal/UE_ShaderAndEffects/Content/M_PBR_Metal_2.uasset",
+				"D:/LBD_Unreal/UE_ShaderAndEffects/Content/My_Chrome.uasset",
+				"D:/LBD_Unreal/UE_ShaderAndEffects/Content/Chap01_BuiltData.uasset",
+				"D:/LBD_Unreal/UE_ShaderAndEffects/Content/Levels/Chapter01/01_07_Start_BuiltData.uasset",
+				"D:/LBD_Unreal/UE_ShaderAndEffects/Content/Levels/Chapter01/01_07_Start.umap",
+				"D:/LBD_Unreal/UE_ShaderAndEffects/Content/Assets/Chapter01/01_04/M_SimpleGlass.uasset"
+			]
+		}
+	]
+}
